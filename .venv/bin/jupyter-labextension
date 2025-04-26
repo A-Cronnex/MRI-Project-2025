@@ -1,5 +1,5 @@
 #!/bin/sh
-'''exec' "/home/aaron-cigarruista/Escritorio/Projects/Data Analysis/MRI-Project-General-Analysis/.venv/bin/python3" "$0" "$@"
+'''exec' "/home/aaronhcd/Desktop/Proyectos/Data Analysis/MRI-Project-General-Analysis/.venv/bin/python3" "$0" "$@"
 ' '''
 # -*- coding: utf-8 -*-
 import re
