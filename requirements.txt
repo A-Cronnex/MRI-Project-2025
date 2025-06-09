@@ -46,6 +46,7 @@ jupyterlab==4.4.1
 jupyterlab_pygments==0.3.0
 jupyterlab_server==2.27.3
 kiwisolver==1.4.8
+lxml==5.4.0
 MarkupSafe==3.0.2
 matplotlib==3.10.1
 matplotlib-inline==0.1.7
@@ -54,8 +55,11 @@ nbclient==0.10.2
 nbconvert==7.16.6
 nbformat==5.10.4
 nest-asyncio==1.6.0
+nibabel==5.3.2
+nilearn==0.11.1
 notebook_shim==0.2.4
 numpy==2.2.5
+nvidia-nccl-cu12==2.26.5
 opencv-python==4.11.0.86
 overrides==7.7.0
 packaging==25.0
@@ -105,3 +109,4 @@ wcwidth==0.2.13
 webcolors==24.11.1
 webencodings==0.5.1
 websocket-client==1.8.0
+xgboost==3.0.2
